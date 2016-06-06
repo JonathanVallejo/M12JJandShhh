@@ -3308,7 +3308,7 @@ table.hover tr:nth-of-type(even):hover {
 
 h2 {
   text-align: center;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
   padding-top: 40px;
   padding-bottom: 30px;
@@ -3316,14 +3316,14 @@ h2 {
 
 p {
   text-align: justify;
-  font-family: 'Dancing Script', cursive;
+  font-family: 'Roboto', sans-serif;
   font-weight: 700;
-  font-size: 24px;
+  font-size: 16px;
   padding: 20px;
   color: #fff; }
 
 .fondonegro {
-  background-image: url(../img/fondo1.jpg);
+  background-image: url(../img/fondo.png);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
